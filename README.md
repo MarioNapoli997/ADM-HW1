@@ -14,4 +14,4 @@
 
 
 > Pdf File
-* In the _.pdf_ file you can find the result of the submission of the exercises on HackerRank.
+* In the Submission.pdf_ file you can find the result of the submission of the exercises on HackerRank.
