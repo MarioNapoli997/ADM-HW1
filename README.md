@@ -14,4 +14,4 @@
 
 
 > Pdf File
-* In the Submission.pdf file you can find the result of the submission of the exercises on HackerRank.
+* In the Submission.pdf, contained in the stamps folder, file you can find the result of the submission of the exercises on HackerRank.
